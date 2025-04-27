@@ -17,15 +17,16 @@
 
   <name>food-hotel-commons</name>
 
-  <repositories>
+  <distributionManagement>
     <repository>
       <id>github</id>
-      <url>https://maven.pkg.github.com/musabeytekin/food-hotel-commons</url>
+      <name>GitHub Packages</name>
+      <url>https://maven.pkg.github.com/musabeytekin/food-hotel-parent</url>
       <snapshots>
         <enabled>true</enabled>
       </snapshots>
     </repository>
-  </repositories>
+  </distributionManagement>
 
 
 </project>
