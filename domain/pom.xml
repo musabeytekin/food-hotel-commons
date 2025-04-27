@@ -13,15 +13,7 @@
 
   <name>domain</name>
 
-  <repositories>
-    <repository>
-      <id>github</id>
-      <url>https://maven.pkg.github.com/musabeytekin/food-hotel-commons</url>
-      <snapshots>
-        <enabled>true</enabled>
-      </snapshots>
-    </repository>
-  </repositories>
+
 
 
 </project>

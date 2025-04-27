@@ -16,7 +16,16 @@
   </parent>
 
   <name>food-hotel-commons</name>
-  <url>http://maven.apache.org</url>
+
+  <repositories>
+    <repository>
+      <id>github</id>
+      <url>https://maven.pkg.github.com/musabeytekin/food-hotel-commons</url>
+      <snapshots>
+        <enabled>true</enabled>
+      </snapshots>
+    </repository>
+  </repositories>
 
 
 </project>
