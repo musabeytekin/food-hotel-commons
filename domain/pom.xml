@@ -8,12 +8,9 @@
     <version>1.0-SNAPSHOT</version>
   </parent>
 
-  <artifactId>domain</artifactId>
+  <artifactId>food-hotel-commons-domain</artifactId>
   <packaging>jar</packaging>
 
-  <name>domain</name>
-
-
-
+  <name>food-hotel-commons-domain</name>
 
 </project>
